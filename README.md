@@ -1,6 +1,6 @@
-# Private 
+## Private Events 
 
-## We build an site similar to a private Eventbrite which allows users to create events and then manage user signups. Users can create events and send invitations and parties .
+### We build an site similar to a private Eventbrite which allows users to create events and then manage user signups. Users can create events and send invitations and parties .
 
 
 ![screenshot](./images/Screenshot-1.png)
@@ -69,5 +69,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://mit-license.org/) licensed.
+This project is [MIT](LICENCE) licensed.
 
